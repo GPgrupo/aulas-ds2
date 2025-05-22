@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.tela{
+    background: #faeaac;
+    height: 100vh;
+    text-align: center;
+}
+
+.logo {
+    width: 100%;
+    margin: 100px;
+}
+
+.iniciar {
+    width: 130px;
+    height: 60px;
+    background: #1d70b7;
+    border: 6px solid #2d2e82;
+    margin-top:50px ;
+    font-size: 35px;
+    color: #f29100;
+    font-weight: bold;
+}
